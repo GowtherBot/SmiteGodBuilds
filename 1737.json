@@ -1,0 +1,19 @@
+{
+  "Builds": [
+    {
+      "StarterItem": "Sands of Time",
+      "Items": [
+        "Sands of Time",
+        "Tablet of Destinies",
+        "Soul Gem",
+        "Divine Ruin",
+        "Soul Reaver",
+        "Obsidian Shard"
+      ]
+    }
+  ],
+  "Relics": [
+    "Purification Beads",
+    "Aegis Amulet"
+  ]
+}
